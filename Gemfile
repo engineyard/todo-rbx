@@ -8,7 +8,8 @@ gem 'jquery-rails', '1.0.14'
 platform :ruby do
   gem 'mysql2', '~> 0.2.7'
   gem 'pg'
-  gem 'sqlite3' 
+  gem 'sqlite3'
+  gem 'thin'
   gem 'unicorn'
 end
 
