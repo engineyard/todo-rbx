@@ -10,7 +10,7 @@ platform :ruby do
   gem 'pg'
   gem 'sqlite3'
   gem 'thin'
-  gem 'unicorn'
+#  gem 'unicorn'
 end
 
 platforms :jruby do
